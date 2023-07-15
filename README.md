@@ -1,2 +1,3 @@
-# TeachMeDjango
-freeCodeCamp Project development
+# Puddle
+Django project development by freecodecamp..for beginners
+
